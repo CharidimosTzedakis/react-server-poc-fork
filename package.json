@@ -58,7 +58,6 @@
     "lint-staged": "^15.2.9",
     "pkg-pr-new": "^0.0.20",
     "prettier": "^3.2.5",
-    "simple-git-hooks": "^2.11.1",
     "typescript": "^5.4.5",
     "typescript-plugin-css-modules": "^5.1.0"
   },
