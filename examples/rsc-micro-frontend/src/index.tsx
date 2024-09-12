@@ -8,6 +8,7 @@ export default function HostingApplication() {
 
       <RemoteComponent src="http://localhost:3001" />
       <RemoteComponent src="http://localhost:3002" />
+      <RemoteComponent src="http://localhost:3003" />
     </div>
   );
 }
