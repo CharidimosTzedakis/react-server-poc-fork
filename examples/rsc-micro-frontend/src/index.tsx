@@ -6,7 +6,8 @@ export default function HostingApplication() {
       <h1>Welcome to the Hosting Application</h1>
       <p>This is a simple React Server Component.</p>
 
-      <RemoteComponent src="http://localhost:4001" />
+      <RemoteComponent src="http://localhost:3001" />
+      <RemoteComponent src="http://localhost:3002" />
     </div>
   );
 }

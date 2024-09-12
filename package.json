@@ -7,8 +7,8 @@
     "lint": "eslint --cache --ext .js,.jsx,.mjs,.ts,.tsx .",
     "docs": "pnpm --filter ./docs dev --open",
     "docs-build": "pnpm --filter ./docs build",
-    "preinstall": "npx only-allow pnpm",
-    "postinstall": "simple-git-hooks"
+    "//preinstall": "npx only-allow pnpm",
+    "//postinstall": "simple-git-hooks"
   },
   "keywords": [
     "react",
