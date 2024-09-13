@@ -1,6 +1,7 @@
 const state = { name: "" };
-import { getContext } from "../../../packages/react-server/server/context.mjs";
-import { LOGGER_CONTEXT } from "./symbols.mjs";
+
+import { getContext } from "@lazarv/react-server/server/context.mjs";
+import { LOGGER_CONTEXT } from "@lazarv/react-server/server/symbols.mjs";
 
 export default function ServerActionComponent() {
   return (
